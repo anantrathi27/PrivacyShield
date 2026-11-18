@@ -6,7 +6,7 @@
 
 **Stack:** React + Vite · FastAPI · SQLite · JWT (HS256) · Argon2 — *Educational prototype*
 
-PrivacyShield is a full-stack web application built for the course **21CSE361T – Database Security and Privacy** (SRM Institute of Science and Technology). It demonstrates how sensitive data in a database can be **identified, protected, monitored and managed** from one dashboard, behind JWT authentication.
+PrivacyShield is a full-stack web application built for the course . It demonstrates how sensitive data in a database can be **identified, protected, monitored and managed** from one dashboard, behind JWT authentication.
 
 ![Dashboard](screenshots/dashboard.png)
 
@@ -376,9 +376,6 @@ The Customers view applies the same idea to name, email, phone and card number. 
 ## 👤 Author
 
 **Anant Rathi**
-
-Course: **21CSE361T – Database Security and Privacy**
-Department of Computing Technologies, School of Computing, SRM Institute of Science and Technology, Kattankulathur – 603203
 
 ---
 
